@@ -13,6 +13,11 @@ def sub(a,b) :
 
 def mul :
 	return x*y
+	lkdjfosjf
+	ldfojdlgjs
+	lksjdfohg
+	djgldkgj
+	
 
 def div(a,b) :
 	return x/y
